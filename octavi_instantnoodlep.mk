@@ -41,5 +41,11 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 #Maintainer
 OCTAVI_DEVICE_MAINTAINER := ItsBunnyBatch
 
+#FP Animations
+EXTRA_UDFPS_ANIMATIONS := true
+
+# Quick Tap Enable
+TARGET_SUPPORTS_QUICK_TAP := true
+
 #Gapps
 USE_GAPPS := true
