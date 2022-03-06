@@ -19,7 +19,18 @@
     <!-- UDFPS recognizing animation vertical position offset -->
     <dimen name="udfps_animation_offset">35dp</dimen>
     
-    <!-- Volume panel -->
+    <!-- Alert Slider UI -->
+    <dimen name="tri_state_down_dialog_position_l">550px</dimen>
+    <dimen name="tri_state_middle_dialog_position_l">550px</dimen>
+    <dimen name="tri_state_up_dialog_position_l">550px</dimen>
+    <dimen name="tri_state_up_dialog_position_deep">32px</dimen>
+    <dimen name="tri_state_up_dialog_position_deep_land">28px</dimen>
+    <dimen name="tri_state_position_padding_extra">0px</dimen>
+    <dimen name="tri_state_down_dialog_position">690px</dimen>
+    <dimen name="tri_state_middle_dialog_position">565px</dimen>
+    <dimen name="tri_state_up_dialog_position">440px</dimen>
+
+    <!-- Power_Button -->
     <dimen name="physical_power_button_center_screen_location_y">1250px</dimen>
 
 </resources>
